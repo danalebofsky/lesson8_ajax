@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+August 4th 2017
 
 ### Student Name:  
-(First and Last Name)
+Dana Lebofsky
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment guided the programmer on how to create a program that retrieves and displays descriptive information about the movie(s) he/she searched.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://danalebofsky.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned what an API key is.
+2. I learned how to create placeholders.
+3. I learned how to use the $.ajax() method in order to update parts of a web page without needing to reloading the entire page.
